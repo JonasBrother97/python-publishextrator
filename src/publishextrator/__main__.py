@@ -13,7 +13,6 @@ import sys
 from publishextrator.cli import main
 
 if __name__ == "__main__":
-
     class Periodo():
         def __init__(self, ano):
             self.ano = ano

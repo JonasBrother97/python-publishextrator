@@ -2,4 +2,4 @@
 Authors
 =======
 
-* joao gm - nan
+* joao gm - joaogsmachado1@gmail.com

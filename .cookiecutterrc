@@ -35,7 +35,7 @@ default_context:
     coveralls:                 'no'
     coveralls_token:           '[Required for Appveyor, take it from https://coveralls.io/github/JonasBrother97/python-publishextrator]'
     distribution_name:         'publishextrator'
-    email:                     'nan'
+    email:                     'joaogsmachado1@gmail.com'
     full_name:                 'joao gm'
     legacy_python:             'no'
     license:                   'BSD 2-Clause License'

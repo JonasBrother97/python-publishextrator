@@ -31,7 +31,7 @@ setup(
         re.sub(':[a-z]+:`~?(.*?)`', r'``\1``', read('CHANGELOG.rst'))
     ),
     author='joao gm',
-    author_email='nan',
+    author_email='joaogsmachado1@gmail.com',
     url='https://github.com/JonasBrother97/python-publishextrator',
     packages=find_packages('src'),
     package_dir={'': 'src'},
