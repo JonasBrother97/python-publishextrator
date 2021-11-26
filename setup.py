@@ -23,7 +23,7 @@ def read(*names, **kwargs):
 
 setup(
     name='publishextrator',
-    version='0.0.0',
+    version='0.0.1',
     license='BSD-2-Clause',
     description='PublishNews extractor',
     long_description='%s\n%s' % (

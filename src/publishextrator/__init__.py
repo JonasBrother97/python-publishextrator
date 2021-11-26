@@ -1,3 +1,3 @@
-__version__ = '0.0.0'
+__version__ = '0.0.1'
 
-from publishextrator.__main__ import Periodo, Mensal, Anual
+from publishextrator.file1 import Periodo, Mensal, Anual
