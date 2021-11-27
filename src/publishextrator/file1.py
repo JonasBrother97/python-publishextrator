@@ -1,3 +1,6 @@
+import requests
+from bs4 import BeautifulSoup
+
 class Periodo():
     def __init__(self, ano):
         self.ano = ano
